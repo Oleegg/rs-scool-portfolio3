@@ -1,1 +1,1 @@
-# rs-scool-portfolio3
+# rs-school-portfolio
